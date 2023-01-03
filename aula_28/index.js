@@ -1,3 +1,3 @@
-const data = new Date();
-
-console.log(data.toString());
+// const data = new Date();
+// console.log('Dia' , data.getDate());
+// console.log(data.toString());

@@ -1,0 +1,10 @@
+body{
+    background-color: brown;
+}
+.resultado{
+width:500px;
+height:100px;
+background-color: white;
+display: flex;
+justify-content: center;
+}
